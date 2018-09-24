@@ -1,0 +1,21 @@
+{
+  "name": "EyeServer",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "express": "~4.16.3",
+    "pug": "2.0.3",
+    "stylus": "0.54.5",
+    "nib": "1.1.2",
+	"morgan" : "~1.9.0",
+	"jquery": "^3.2.1",
+	"nodemon":"~1.18.4",
+	"mongoose":"~5.2.12",
+	"mongodb":"~3.1.4",
+	"bcrypt":"~3.0.0",
+	"express-session":"~1.15.6",
+	"connect-mongo":"~2.0.1",
+	"body-parser":"~1.18.3",
+	"express-session":"~1.15.6"
+  }
+}

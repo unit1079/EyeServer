@@ -1,0 +1,32 @@
+.imgUploadThumbnail {
+    height: 50px;
+}
+
+.imgPopup {
+    width: 97%;
+}
+
+.thToUpload {
+    white-space: nowrap;
+    width: 150px;
+}
+
+.trToUpload {
+    padding-top: 3px;    
+}
+
+.tdToUpload {
+    white-space: nowrap;
+}
+.trToUpload:nth-child(even) {    
+    background-color: #ccebff;    
+}
+
+.modal-content {
+    width: 100%;
+}
+
+.divMainContent {
+    width: 95%;
+    vertical-align: middle;
+}
